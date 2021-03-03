@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #e4e4e4;
+}
+
+.indented {
+  position: relative;
+  left: 50px;
+}
+
+.slider {
+  background-color: #e4e4e4;
+  padding-left: 10px;
+}
