@@ -14,3 +14,9 @@ body {
   background-color: #e4e4e4;
   padding-left: 10px;
 }
+
+hr {
+  width: 150vh;
+  position: relative;
+  left: -50%;
+}
